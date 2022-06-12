@@ -2,7 +2,9 @@ import ProfileCard from './ProfileCard'
 
 function HomeProfile() {
   return (
-      <ProfileCard />
+      <div className="flex flex-col gap-4 align-top overflow-auto">
+        <ProfileCard />
+      </div>
   )
 }
 
