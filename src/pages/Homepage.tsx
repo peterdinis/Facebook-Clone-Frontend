@@ -1,11 +1,11 @@
-import Header from "../components/Header"
-import HomeProfile from "../components/profile/HomeProfile"
+import LeftMenu from "../components/home/LeftMenu"
+import Header from "../components/shared/Header"
 
 function Homepage() {
   return (
     <div>
         <Header />
-        <HomeProfile />
+        <LeftMenu />
     </div>
   )
 }
