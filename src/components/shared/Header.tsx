@@ -47,7 +47,7 @@ function Header() {
         <ul className="flex w-full lg:w-max items-center justify-center">
           <li className="w-1/5 md:w-max text-center">
             <a
-              href="#"
+              href="/"
               className="w-full text-3xl py-2 px-3 xl:px-12 cursor-pointer text-center inline-block text-blue-500 border-b-4 border-blue-500"
             >
               <i className="bx bxs-home"></i>
@@ -55,7 +55,7 @@ function Header() {
           </li>
           <li className="w-1/5 md:w-max text-center">
             <a
-              href="#"
+              href="/watch"
               className="w-full text-3xl py-2 px-3 xl:px-12 cursor-pointer text-center inline-block rounded text-gray-600 hover:bg-gray-100 dark:hover:bg-dark-third dark:text-dark-txt relative"
             >
               <i className="bx bx-movie-play"></i>
@@ -66,7 +66,7 @@ function Header() {
           </li>
           <li className="w-1/5 md:w-max text-center">
             <a
-              href="#"
+              href="/market"
               className="w-full text-3xl py-2 px-3 xl:px-12 cursor-pointer text-center inline-block rounded text-gray-600 hover:bg-gray-100 dark:hover:bg-dark-third dark:text-dark-txt relative"
             >
               <i className="bx bx-store"></i>
@@ -74,7 +74,7 @@ function Header() {
           </li>
           <li className="w-1/5 md:w-max text-center">
             <a
-              href="#"
+              href="/groups"
               className="w-full text-3xl py-2 px-3 xl:px-12 cursor-pointer text-center inline-block rounded text-gray-600 hover:bg-gray-100 dark:hover:bg-dark-third dark:text-dark-txt relative"
             >
               <i className="bx bx-group"></i>
@@ -82,7 +82,7 @@ function Header() {
           </li>
           <li className="w-1/5 md:w-max text-center hidden md:inline-block">
             <a
-              href="#"
+              href="/gaming"
               className="w-full text-3xl py-2 px-3 xl:px-12 cursor-pointer text-center inline-block rounded text-gray-600 hover:bg-gray-100 dark:hover:bg-dark-third dark:text-dark-txt relative"
             >
               <i className="bx bx-layout"></i>
