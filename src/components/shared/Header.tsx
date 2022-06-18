@@ -3,18 +3,14 @@ import {useNavigate} from "react-router-dom";
 function Header() {
   const navigate = useNavigate();
 
-  const navigateToHome = () => {
-    navigate("/");
-  }
-
-  const navigateToProfile = () => {
-    navigate("/profile");
+  const navigateToChatPage = () => {
+    navigate("/chat");
   }
   return (
     <>
       <nav className="bg-white dark:bg-dark-second h-max md:h-14 w-full shadow flex flex-col md:flex-row items-center justify-center md:justify-between fixed top-0 z-50 border-b dark:border-dark-third">
         <div className="flex items-center justify-between w-full md:w-max px-4 py-2">
-          <a onClick={navigateToHome} href="#" className="mr-2 hidden md:inline-block">
+          <a  href="/" className="mr-2 hidden md:inline-block">
             <img
               src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/800px-Facebook_f_logo_%282021%29.svg.png"
               alt="Facebook logo"
@@ -115,9 +111,10 @@ function Header() {
                 alt="Profile picture"
                 className="rounded-full h-7 w-7"
               />
-              <span onClick={navigateToProfile} className="mx-2 font-semibold dark:text-dark-txt">
-                Peter Dinis
-              </span>
+              <span  className="mx-2 font-semibold dark:text-dark-txt">
+                <a href="/profile">
+                  Peter Dinis  
+                </a>             </span>
             </a>
           </li>
           <li>
@@ -127,7 +124,7 @@ function Header() {
           </li>
           <li>
             <div className="text-xl hidden xl:grid place-items-center bg-gray-200 dark:bg-dark-third dark:text-dark-txt rounded-full mx-1 p-3 cursor-pointer hover:bg-gray-300 relative">
-              <i className="bx bxl-messenger"></i>
+              <i onClick={navigateToChatPage} className="bx bxl-messenger"></i>
             </div>
           </li>
           <li>

@@ -14,7 +14,7 @@ function ProfileBody() {
           </div>
           <div id="i-box">
             <div id="intro-line">Front-end Engineer</div>
-            <div id="u-occ">I love making applications with Angular.</div>
+            <div id="u-occ">I love making applications with React Typescript.</div>
             <div id="u-loc"><i className="material-icons">location_on</i><a href="#">Bengaluru</a>, <a href="#">India</a></div>
           </div>
         </div>
@@ -95,7 +95,7 @@ function ProfileBody() {
           </div>
           <div id="c-c-main">
             <div className="tb">
-              <div className="td" id="p-c-i"><img src="https://imagizer.imageshack.com/img921/3072/rqkhIb.jpg" alt="Profile pic" /></div>
+              <div className="td" id="p-c-i"><img src="https://picsum.photos/200/300" alt="Profile pic" /></div>
               <div className="td" id="c-inp">
                 <input type="text" placeholder="What's on your mind?" />
               </div>
@@ -106,10 +106,10 @@ function ProfileBody() {
         <div>
           <div className="post">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="https://imagizer.imageshack.com/img923/2452/zifFKH.jpg" alt="Rajeev's profile pic" /></a>
+              <a href="#" className="td p-p-pic"><img src="https://picsum.photos/200/300" alt="Rajeev's profile pic" /></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
-                  <a href="#">Rajeev Singh</a> shared a memory with <a href="#">Himalaya Singh</a>
+                  <a href="#">John Doe</a> <a href="#">Lorem Ipsum</a>
                 </div>
                 <div className="p-dt">
                   <i className="material-icons">calendar_today</i>
@@ -119,7 +119,7 @@ function ProfileBody() {
               <div className="td p-opt"><i className="material-icons">keyboard_arrow_down</i></div>
             </div>
             <a href="#" className="p-cnt-v">
-              <img src="https://imagizer.imageshack.com/img923/8568/6LwtUa.jpg" />
+              <img src="https://picsum.photos/200/300" />
             </a>
             <div>
               <div className="p-acts">
@@ -137,25 +137,25 @@ function ProfileBody() {
           <div id="chat-lb"><i className="material-icons">contacts</i><span>Contacts</span></div>
           <div id="cts">
             <div className="on-ct active">
-              <a href="#"><img src="https://imagizer.imageshack.com/img924/4231/JnFicn.jpg" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct active">
-              <a href="#"><img src="https://imagizer.imageshack.com/img923/332/1abR4H.png" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct">
-              <a href="#"><img src="https://imagizer.imageshack.com/img924/4231/JnFicn.jpg" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct active">
-              <a href="#"><img src="https://imagizer.imageshack.com/img923/332/1abR4H.png" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct active">
-              <a href="#"><img src="https://imagizer.imageshack.com/img924/4231/JnFicn.jpg" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct">
-              <a href="#"><img src="https://imagizer.imageshack.com/img924/4231/JnFicn.jpg" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct">
-              <a href="#"><img src="https://imagizer.imageshack.com/img923/332/1abR4H.png" /></a>
+              <a href="#"><img src="https://picsum.photos/200/300" /></a>
             </div>
             <div className="on-ct" id="ct-sett"><i className="material-icons">settings</i></div>
           </div>
