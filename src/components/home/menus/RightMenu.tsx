@@ -12,7 +12,7 @@ function RightMenu() {
                 </div>
                 <div className="p-2">
                     <a href="#" className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third rounded-lg transition-all">
-                    <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                    <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                         <div className="flex-1 h-full">
                             <div className="dark:text-dark-txt">
                                 <span className="font-semibold">Sakura Hinata</span>
@@ -45,7 +45,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                            <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -55,8 +55,7 @@ function RightMenu() {
                     </li>
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
-                            <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                            <div className="relative"><img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -67,7 +66,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -78,7 +77,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                            <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -89,7 +88,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -100,7 +99,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -111,7 +110,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -122,7 +121,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -133,7 +132,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -144,7 +143,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -155,7 +154,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -166,7 +165,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>
@@ -177,7 +176,7 @@ function RightMenu() {
                     <li>
                         <div className="flex items-center space-x-4 p-2 hover:bg-gray-200 dark:hover:bg-dark-third dark:text-dark-txt rounded-lg cursor-pointer">
                             <div className="relative">
-                            <img src="https://picsum.photos/200/300" alt="Profile picture" className="rounded-full" />
+                           <img src="https://picsum.photos/100/100" alt="Profile picture" className="rounded-full" />
                                 <span className="bg-green-500 w-3 h-3 rounded-full absolute right-0 top-3/4 border-white border-2"></span>
                             </div>
                             <div>

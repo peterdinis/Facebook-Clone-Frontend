@@ -6,7 +6,7 @@ function LeftMenu() {
                 <li>
                     <a href="#" className="flex items-center space-x-2 p-2 hover:bg-gray-200 rounded-lg transition-all dark:text-dark-txt dark:hover:bg-dark-third">
                     <img src="https://picsum.photos/200/300" alt="Profile picture" className="w-10 h-10 rounded-lg" />
-                        <span className="font-semibold">Tran Anh Tuat</span>
+                    <span className="font-semibold">Skuska</span>
                     </a>
                 </li>
                 <li>
@@ -51,25 +51,25 @@ function LeftMenu() {
                 <li>
                     <a href="#" className="flex items-center space-x-2 p-2 hover:bg-gray-200 rounded-lg transition-all dark:text-dark-txt dark:hover:bg-dark-third">
                     <img src="https://picsum.photos/200/300" alt="Profile picture" className="w-10 h-10 rounded-lg" />
-                        <span className="font-semibold">Cộng đồng Front-end(HTML/CSS/JS) Việt Nam</span>
+                        <span className="font-semibold">Skuska</span>
                     </a>
                 </li>
                 <li>
                     <a href="#" className="flex items-center space-x-2 p-2 hover:bg-gray-200 rounded-lg transition-all dark:text-dark-txt dark:hover:bg-dark-third">
                     <img src="https://picsum.photos/200/300" alt="Profile picture" className="w-10 h-10 rounded-lg" />
-                        <span className="font-semibold">CNPM08_UIT_Group học tập</span>
+                    <span className="font-semibold">Skuska</span>
                     </a>
                 </li>
                 <li>
                     <a href="#" className="flex items-center space-x-2 p-2 hover:bg-gray-200 rounded-lg transition-all dark:text-dark-txt dark:hover:bg-dark-third">
                     <img src="https://picsum.photos/200/300" alt="Profile picture" className="w-10 h-10 rounded-lg" />
-                        <span className="font-semibold">Cộng đồng UI/UX Design vietnam</span>
+                    <span className="font-semibold">Skuska</span>
                     </a>
                 </li>
                 <li>
                     <a href="#" className="flex items-center space-x-2 p-2 hover:bg-gray-200 rounded-lg transition-all dark:text-dark-txt dark:hover:bg-dark-third">
                         <img src="https://picsum.photos/200/300" alt="Profile picture" className="w-10 h-10 rounded-lg" />
-                        <span className="font-semibold">Nihon Koi</span>
+                        <span className="font-semibold">Skuska</span>
                     </a>
                 </li>
                 <li>
