@@ -2,11 +2,11 @@ import "./Profile.css"
 
 function ProfileHeader() {
   return (
-    <div id="profile-upper">
-    <div id="profile-banner-image">
+    <div className="relative">
+    <div className="h-96 overflow-hidden z-1">
       <img src="https://imagizer.imageshack.com/img921/9628/VIaL8H.jpg" alt="Banner image" />
     </div>
-    <div id="profile-d">
+    <div className="absolute left-14 bottom-0 right-0 h-44 z-2">
       <div id="profile-pic">
         <img src="https://imagizer.imageshack.com/img921/3072/rqkhIb.jpg" />
       </div>
