@@ -1,4 +1,12 @@
+import {useState} from "react";
+
 function Header() {
+  const [isActive, setActive] = useState(false);
+
+  const onToggle = () => {
+    setActive(!isActive);
+  }
+
   return (
     <>
       <nav className="bg-white dark:bg-dark-second h-max md:h-14 w-full shadow flex flex-col md:flex-row items-center justify-center md:justify-between fixed top-0 z-50 border-b dark:border-dark-third">
