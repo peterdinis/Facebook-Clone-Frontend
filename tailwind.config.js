@@ -1,25 +1,23 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
-  darkMode: 'class', // or 'media' or 'class'
+  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+  darkMode: 'class',
   theme: {
-    extend: {
-      colors: {
-        'dark-main': '#18191A',
-        'dark-second': '#242526',
-        'dark-third': '#3A3B3C',
-        'dark-txt': '#B8BBBF'
-      }
+    container: {
+      center: true,
+
+       padding: {
+        DEFAULT: '1rem',
+        sm: '2rem',
+        lg: '4rem',
+        xl: '5rem',
+        '2xl': '6rem',
+      },
+    
     },
   },
   variants: {
-    extend: {
-      display: ['group-hover'],
-      transform: ['group-hover'],
-      scale: ['group-hover']
-    },
+    extend: {},
   },
   plugins: [],
 }
