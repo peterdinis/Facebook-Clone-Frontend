@@ -6,10 +6,12 @@ import GroupsWrapper from "./pages/groups/GroupsWrapper";
 import Homepage from "./pages/Homepage";
 import MarketplaceWrapper from "./pages/marketplace/MarketplaceWrapper";
 import WatcherWrapper from "./pages/watch/WatcherWrapper";
+import Header from "./components/shared/Header"
 
 function App() {
   return (
     <>
+      <Header />
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/login" element={<Loginpage />} />

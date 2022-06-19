@@ -5,7 +5,6 @@ import ProfileHeader from './profile/ProfileHeader'
 function Profilepage() {
   return (
     <>
-        <Header />
         <ProfileHeader />
         <ProfileBody />
     </>
